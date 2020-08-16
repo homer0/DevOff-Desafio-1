@@ -10,10 +10,13 @@ body {
 }
 
 h1 {
+  border-top: 5px solid #440a49;
   margin: 0;
   padding: 20px 0;
   font-size: 25px;
   text-align: center;
+  color: #302e63;
+  background-color: rgba(212,176,190, 0.3);
 }
 
 #gallery {
@@ -60,7 +63,7 @@ h1 {
   margin: 0;
 }
 
-#gallery li a[id^='photo-']:target::after {
+#gallery li a[id^='photo-']:target::before {
   display: block;
   content: attr(data-caption);
   position: absolute;
@@ -75,8 +78,31 @@ h1 {
   color: #FFF;
 }
 
+#gallery li a[id^='photo-']:target::after {
+  display: block;
+  content: 'Apreta \'atras\' en el navegador para cerrar la foto';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  text-align: center;
+  line-height: 40px;
+  padding-top: 10px;
+  font-size: 14px;
+  color: #FFF;
+}
+
 #gallery li a[id^='photo-']:target img {
   max-width: 90%;
   max-height: 90%;
   position: relative;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  padding: 10px 0 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #302e63;
 }
