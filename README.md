@@ -1,8 +1,15 @@
-![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
+<center>
+[![Reproductor](./player.png)](https://youtu.be/SszkdZqe5fE)
+</center>
+
+📺 Video: [https://youtu.be/SszkdZqe5fE](https://youtu.be/SszkdZqe5fE)
+
+🤘 Deploy: [https://devoffarg-01.homer0.dev](https://devoffarg-01.homer0.dev)
 
 # Desafío 1 - 26/07/2020
 
 Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
+
 
 ## Condiciones del desafío
 
@@ -33,11 +40,11 @@ Tendrás **1 hora** para resolver el desafío.
 
 ## 📸 ¿De dónde saco fotos?
 
-¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta [`fotos`](./fotos): 
+¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta [`fotos`](./fotos):
 
 <img src="./fotos/01.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/02.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/03.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/04.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/05.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/06.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/07.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/08.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/09.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/10.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/11.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/12.jpg" align="middle" hspace="2" vspace="2" width="200">
 
-De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
+~~De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas.~~ Done.
 
 ## 🤔 ¿Cómo presento mi código?
 
@@ -72,26 +79,11 @@ Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo t
 
 ### Organizaciones aliadas
 
-¡Gracias a [Migue Moyano](https://twitter.com/elmiguedev), [Joel A. Villarreal Bertoldi](https://twitter.com/joelalejandro) y [Agustín Carrasco](https://twitter.com/asermax) del equipo de [CoDeAr](https://twitter.com/somoscodear) por dar una mano para que este proyecto sea posible! 
+¡Gracias a [Migue Moyano](https://twitter.com/elmiguedev), [Joel A. Villarreal Bertoldi](https://twitter.com/joelalejandro) y [Agustín Carrasco](https://twitter.com/asermax) del equipo de [CoDeAr](https://twitter.com/somoscodear) por dar una mano para que este proyecto sea posible!
 
 ### Créditos
 
 DevOff Argentina es un proyecto ideado por [Aldana Denise](https://twitter.com/gizmowis), con el apoyo de [CoDeAr](https://twitter.com/somoscodear).
-
-Este desafío incluye fotos cortesía de las siguientes fuentes:
-
-- [Close up photography of sleeping tabby cat](./fotos/01.jpg), de [Ihsan Adity](https://twitter.com/IhsanAdity)
-- [Baking cheese cooking crust](./fotos/02.jpg), de [Pixabay](https://www.pexels.com/@pixabay)
-- [Woman holding cup of latte](./fotos/03.jpg), de [The Lazy Artist](https://twitter.com/antassingh)
-- [Photography of tree](./fotos/04.jpg), de [Yugal Srivastava](https://twitter.com/yugalsrivastava)
-- [White clouds and blue sky](./fotos/05.jpg), de [Ithalu Dominguez](https://twitter.com/ithasud)
-- [Brown and white short coated puppy](./fotos/06.jpg), de [Valeria Boltneva](https://instagram.com/tsapolka)
-- [Food plate chocolate dessert](./fotos/07.jpg), de [Alexander Dummer](https://www.pexels.com/@alexander-dummer-37646)
-- [Person holding multi-colored heart-shaped ornament](./fotos/08.jpg), de [Sharon McCutcheon](https://instagram.com/mccutcheonphoto)
-- [Brown hummingbird selective focus photography](./fotos/09.jpg), de [Philippe Donn](https://twitter.com/philippedonnphotography)
-- [Wall-e toy on beige pad](./fotos/10.jpg), de [Lenin Estrada](https://www.pexels.com/@lenin-estrada-117221)
-- [Sliced fruits on tray](./fotos/11.jpg), de [Trang Doan](https://instagram.com/iamtrangdoan)
-- [Person hand and crescent moon](./fotos/12.jpg), de [Kaique Rocha](https://instagram.com/hikaique)
 
 ## 🚀 Soluciones
 
